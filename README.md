@@ -1,12 +1,16 @@
 # Tower-of-Hanoi
  The program is written in Turbo C++.
  
- Tower of Hanoi is a mathematical puzzle where we have three rods and n disks. The objective of the puzzle is to move the entire stack to another rod, obeying the following simple rules: 
+ Tower of Hanoi, is a mathematical puzzle which consists of three towers (pegs) and more than one rings is as depicted −
+ 
+ These rings are of different sizes and stacked upon in an ascending order, i.e. the smaller one sits over the larger one. There are other variations of the puzzle where the number of disks increase, but the tower count remains the same.
+ 
+ # Rules
+The mission is to move all the disks to some another tower without violating the sequence of arrangement. A few rules to be followed for Tower of Hanoi are −
 
-1. Only one disk can be moved at a time.
-2. Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack i.e. a disk can only be moved if it is the uppermost disk on a stack.
-3. No disk may be placed on top of a smaller disk.
-
+1. Only one disk can be moved among the towers at any given time.
+2. Only the "top" disk can be removed.
+3. No large disk can sit over a small disk.
 
 
  <p align="center">
