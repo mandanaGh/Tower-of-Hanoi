@@ -12,7 +12,7 @@ The mission is to move all the disks to some another tower without violating the
 2. Only the "top" disk can be removed.
 3. No large disk can sit over a small disk.
 
-Tower of Hanoi puzzle with n disks can be solved in minimum 2<sup>n</sup−1 steps. This presentation shows that a puzzle with 3 disks has taken 2<sup>3</sup> - 1 = 7 steps.
+Tower of Hanoi puzzle with n disks can be solved in minimum 2<sup>n</sup>−1 steps. This presentation shows that a puzzle with 3 disks has taken 2<sup>3</sup> - 1 = 7 steps.
 
  <p align="center">
 <img src="https://github.com/mandanaGh/Tower-of-Hanoi/blob/main/images/honoi_tower.jpg" width="600"></p>
