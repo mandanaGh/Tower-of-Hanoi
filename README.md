@@ -5,7 +5,7 @@
  
  These rings are of different sizes and stacked upon in an ascending order, i.e. the smaller one sits over the larger one. There are other variations of the puzzle where the number of disks increase, but the tower count remains the same.
  
- # Rules
+ ## Rules
 The mission is to move all the disks to some another tower without violating the sequence of arrangement. A few rules to be followed for Tower of Hanoi are:
 
 1. Only one disk can be moved among the towers at any given time.
